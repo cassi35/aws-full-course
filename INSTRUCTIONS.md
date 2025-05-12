@@ -50,8 +50,7 @@ curl -X POST http://localhost:3000/shorten \
 To retrieve a shortened URL:  
 
 ```sh
-curl -i http://localhost:3000/go/yak.whale.dog
-```
+curl -i http://localhost:3000/go/banana.yak.banana
 
 ### 5. Success!  
 If the responses return correctly, the app is now running locally.  
